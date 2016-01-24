@@ -1,0 +1,28 @@
+name: Map
+favicon: null
+layout_spectrum: 0.3310879203490913
+typography_spectrum: 0.9366614362224936
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6944955175276846
+  lightness: 0.6499874435830861
+  saturation: 0.253283184254542
+  rhythmicContrast: 0.3783630095422268
+purpose: []
